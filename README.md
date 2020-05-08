@@ -55,5 +55,3 @@ This YMAP might be a bit performance heavy. It may effect lower end systems.
 **Download.**
 
 [County Upgrade YMAP - Download.](https://github.com/Mart475/County-Upgrade-YMAP)
-
-1. List item
