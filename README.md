@@ -34,7 +34,7 @@ County Upgrade is an ugprade of the whole Blaine County area which add's around 
 
 **Warning.**
 
-This YMAP does not need a warning. It's very simple and has no known errors.
+This YMAP might be a bit performance heavy. It may effect lower end systems.
 
 ---
 
