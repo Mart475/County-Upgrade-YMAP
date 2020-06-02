@@ -1,28 +1,26 @@
+![alt text](https://forum.cfx.re/uploads/default/original/4X/6/0/2/6025f5a7cab0287751c8932522cb12a4219447e2.png "Banner")
+
+---
+
 **[Release] [YMAP] County Upgrade.**
 
 ---
 
-The County Upgrade is an upgrade of the whole Blaine County area which adds around 750+ new props to the area. It was hand built in Codewalker with many props placed by hand, and then moved correctly into position. This YMAP is simple, clean and look’s very natural for the area. It’s a massive upgrade over the base visuals.
+It was once empty, but now it’s full again. Blaine County has been overhauled with a bunch of new vegetation. Go explore.
 
 ---
 
 **Installation.**
 
-* 1: Download County Upgrade YMAP.
+* Download County Upgrade YMAP.
 
-* 2: Un-zip the contents of the zip file.
+* Un-zip the contents of the zip file.
 
-* 3: Insert into the resources folder (FiveM Server).
+* Insert into the resources folder (FiveM Server).
 
-* 4: Start the resource (start countyupgrade).
+* Start the resource (start countyupgrade).
 
-* 5: You have successfully installed this YMAP.
-
----
-
-**Warning.**
-
-This YMAP might be a bit performance heavy. It may effect lower end systems.
+* You have successfully installed this YMAP.
 
 ---
 
@@ -37,16 +35,3 @@ This YMAP might be a bit performance heavy. It may effect lower end systems.
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/e/5/2/e522522c484ed878ff8251b3ac3b686a9dae3ed9.jpeg "4")
 
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/1/3/a/13a3d30af32e49dc6cb42631ade2493fd97fb515.jpeg "5")
-
----
-
-**Download.**
-
-[County Upgrade YMAP - Download.](https://github.com/Mart475/County-Upgrade-YMAP)
-
----
-
-**FiveM Forum.**
-
-[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-county-upgrade/1072209)
-
