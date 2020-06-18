@@ -6,6 +6,10 @@
 
 ---
 
+**Mart Modifications Discord: https://discord.gg/RGuhx6b**
+
+---
+
 It was once empty, but now it’s full again. Blaine County has been overhauled with a bunch of new vegetation. Go explore.
 
 ---
